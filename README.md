@@ -41,11 +41,6 @@
 ### 直接运行
 前往 [Releases](https://github.com/CHIXES/PokemonBattleSimulator/releases) 下载最新安装包，双击即可安装运行。
 
-## 截图
-
-| 队伍选择 | 战斗界面 |
-|:---:|:---:|
-| ![](screenshots/队伍选择.png) | ![](screenshots/战斗界面.png) |
 
 ## 项目结构
 
